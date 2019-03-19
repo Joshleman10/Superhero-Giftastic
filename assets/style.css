@@ -1,0 +1,25 @@
+h1{
+    margin-left:30%;
+    text-decoration: underline;
+    font-weight:bolder;
+}
+body{
+    background:url("images/backgroundpic.jpg");
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+}
+button{
+    margin-left:10px;
+    border-radius:5px;
+    background-color:royalblue;
+    color:yellow;
+    font-weight:bolder;
+}
+#add-hero{
+    margin-left:10px;
+    border-radius:5px;
+    background-color:royalblue;
+    color:yellow;
+    font-weight:bolder;
+}
